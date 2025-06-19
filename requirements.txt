@@ -1,7 +1,3 @@
-re
-calendar
-csv
-dataclass
-os
-PyPDF2
-shutil
+streamlit
+pypdf2
+pandas
