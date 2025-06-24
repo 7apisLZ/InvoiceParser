@@ -314,5 +314,5 @@ def scanned_invoice_data(file_name):
 
     remove_duplicates(dir_name, "invoice.txt")
 
-    # Move the invoice to its own folder TODO add back
-    # shutil.move(file_name, dir_name)
+    # Move the invoice to its own folder
+    shutil.move(file_name, dir_name)
