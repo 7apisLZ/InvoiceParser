@@ -7,7 +7,7 @@ import os
 import pprint
 import PyPDF2
 import shutil
-import streamlit as st
+
 
 invoice_number = "0000000"
 corporate_id = "0000000000"
