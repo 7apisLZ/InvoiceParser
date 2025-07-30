@@ -1,6 +1,5 @@
 from scanned_file import scanned_invoice_data
 from scanned_file import download_file_button
-import streamlit as st
 
 
 def main():
